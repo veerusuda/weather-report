@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
+## Clone the Project 
+run git clone 'git path ..... ' then navigate to the /weather-report/weather-report folder
+
 ## Download the Dependecies
 
 run 'npm install' to download the relevant dependencies into the ppalication.
