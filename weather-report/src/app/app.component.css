@@ -1,0 +1,22 @@
+.div-top {
+  height: 400px;
+  width: 400px;
+  background: #E8E8E8;
+
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -200px;
+}
+.custom-select {
+  width: 300px;
+  alignment: center;
+  margin-left: 45px;
+  margin-top: 10px;
+  background: lightgrey;
+}
+
+table {
+  margin-left: 5px;
+}
